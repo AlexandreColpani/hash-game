@@ -15,7 +15,7 @@ Status: Development
   
 As I'm starting to study JavaScript I used this channel to study
   
-Link: 
+Link: https://www.youtube.com/channel/UCqHIWCQSq0yeE-1nbcRnt2w
 
 </h4>
 
@@ -27,7 +27,7 @@ Link:
 
 ## Test the game
 
-Link to play:
+Link to play: https://alexandrecolpani.github.io/hash-game/
 
 
 
