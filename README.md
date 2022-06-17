@@ -27,7 +27,7 @@ Link: https://www.youtube.com/channel/UCqHIWCQSq0yeE-1nbcRnt2w
 
 ## Test the game
 
-Link to play: https://alexandrecolpani.github.io/hash-game/
+Link to play: coming soon
 
 
 
